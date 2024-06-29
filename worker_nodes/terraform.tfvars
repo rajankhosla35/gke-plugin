@@ -1,4 +1,4 @@
-cluster_name           = "gke-cluster"
+cluster_name           = "epam-cluster"
 location               = "us-central1"
 project_id             = "github-actions-demo-427108"
 subnetwork             = "default"
